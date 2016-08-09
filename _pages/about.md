@@ -12,7 +12,10 @@ comments: false
 
 ##### Assitant professor at Finance School, Shandong Institute of Business and Technology.
 
-##### Research Interest:	Investing Strategies, Capital Market
+##### Research Interest: 	Quantitative Finance, Capital Market, Accounting Information
 
-##### Research Method:		Empirical Archival, Case Study
+##### Research Method:		Empirical Archival Study, Case Study
 
+##### Programming Skills:	R, SQL, Python
+
+##### Trading Stategy:		Trend Following
