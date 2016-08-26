@@ -10,7 +10,7 @@ comments: false
 
 {% include base_path %}
 
-##### Assitant professor at Finance School, Shandong Institute of Business and Technology.
+##### Assitant professor at Finance School, Shandong Institute of Business and Technology
 
 ##### Research Interest: 	Quantitative Finance, Capital Market, Accounting Information
 
