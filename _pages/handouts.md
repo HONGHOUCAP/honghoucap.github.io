@@ -12,3 +12,6 @@ author_profile: true
 
 
 [XXX_Portfolio.XLSX](https://luisluan.github.io/courses/XXX_Portfolio.xlsx)
+
+
+[个人理财讲义三](https://luisluan.github.io/courses/WM3.pdf)
