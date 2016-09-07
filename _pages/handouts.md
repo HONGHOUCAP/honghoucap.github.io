@@ -15,3 +15,6 @@ author_profile: true
 
 
 [个人理财讲义三](https://luisluan.github.io/courses/WM3.pdf)
+
+
+[个人理财讲义四](https://luisluan.github.io/courses/WM4.pdf)
