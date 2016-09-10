@@ -5,6 +5,9 @@ permalink: /courses/
 author_profile: true
 ---
 
+[成绩计算方式公示](https://luisluan.github.io/courses/score.pdf)
+
+
 [个人理财讲义一](https://luisluan.github.io/courses/WM1.pdf)
 
 
