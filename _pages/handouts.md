@@ -22,3 +22,6 @@ author_profile: true
 
 
 [个人理财讲义四](https://luisluan.github.io/courses/WM4.pdf)
+
+
+[个人理财讲义五](https://luisluan.github.io/courses/WM5.pdf)
