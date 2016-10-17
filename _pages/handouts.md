@@ -25,3 +25,6 @@ author_profile: true
 
 
 [个人理财讲义五](https://luisluan.github.io/courses/WM5.pdf)
+
+
+[个人理财讲义六](https://luisluan.github.io/courses/WM6.pdf)
