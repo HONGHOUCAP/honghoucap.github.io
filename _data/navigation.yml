@@ -9,8 +9,6 @@ main:
   - title: "标签"
     url: /tags/
 
-  - title: "课件"
-    url: /courses/
     
   - title: "关于"
     url: /about/
