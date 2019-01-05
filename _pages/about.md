@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /about/
-title: "关于"
+title: "弘厚投资（北京）有限公司"
 excerpt: 弘厚投资简介"
 author_profile: true
 modified: 2018-12-22T16:39:37-04:00
