@@ -3,9 +3,9 @@ main:
   - title: "首页"
     url: /
 
-  - title: "类别"
-    url: /categories/
+ # - title: "类别"
+ #   url: /categories/
 
     
-  - title: "关于"
+  - title: "关于弘厚"
     url: /about/
