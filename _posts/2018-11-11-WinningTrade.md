@@ -1,5 +1,5 @@
 ---
-title: 决胜交易
+title: 弘厚投资力作：《决胜交易》
 tags:  投资经理
 category: 投资经理
 ---
